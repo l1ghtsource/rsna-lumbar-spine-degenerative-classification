@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import cv2
 import glob
 
-IMG_DIR = '/kaggle/input/rsna-2024-lumbar-spine-degenerative-classification/train_images'
+IMG_DIR = 'rsna-2024-lumbar-spine-degenerative-classification/train_images'
 
 FOLD = 0
 OD_INPUT_SIZE = 384
